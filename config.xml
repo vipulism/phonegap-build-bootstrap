@@ -4,10 +4,10 @@
 	id		= "com.you.www"
 	version 	= "1.0.0">
 
-	<name>Your Mind Blowing App</name>
+	<name>FaltuApp</name>
 
 	<description>
-		A brilliant mobile application written by you and now available on every platform thanks to Kendo UI Mobile and PhoneGap Build.
+		A brilliant mobile application  for flatu Time pass now available on every platform thanks to Kendo UI Mobile and PhoneGap Build.
 	</description>
 
 	<author href="build.phonegap.com"
